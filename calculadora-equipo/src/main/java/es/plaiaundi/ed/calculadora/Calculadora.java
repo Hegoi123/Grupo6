@@ -44,4 +44,6 @@ public class Calculadora {
         // TODO Persona C: implementar la multiplicacion
         throw new UnsupportedOperationException("multiplicar() pendiente de implementar");
     }
+
+    // PR suma)
 }
