@@ -29,4 +29,10 @@ class MultiplicacionTest {
     }
 
     // TODO Persona C: anade aqui tu propio caso de prueba
+
+    @Test
+    @DisplayName("10 x 10 = 100")
+    void multiplicaNumerosGrandes() {
+        assertEquals(100, calc.multiplicar(10, 10));
+    }
 }

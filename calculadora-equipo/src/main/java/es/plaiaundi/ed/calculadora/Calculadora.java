@@ -41,7 +41,6 @@ public class Calculadora {
      * @return a * b
      */
     public int multiplicar(int a, int b) {
-        // TODO Persona C: implementar la multiplicacion
-        throw new UnsupportedOperationException("multiplicar() pendiente de implementar");
+        return a * b;
     }
 }
